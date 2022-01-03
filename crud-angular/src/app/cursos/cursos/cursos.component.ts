@@ -26,6 +26,7 @@ export class CursosComponent implements OnInit {
   }
 
   ngOnInit(): void {
+
   }
 
   onError(errorMensagem: string) {
